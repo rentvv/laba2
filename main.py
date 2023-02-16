@@ -1,6 +1,6 @@
 a = input()
 if len(a)<6:
-    print( 'пароль  короткий')
+    print('пароль  короткий')
 elif len(a) >6:
     b=input()
     if a==b:
