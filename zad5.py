@@ -1,4 +1,4 @@
-n = int(input())
+n = int (input())
 l=[]
 for i in range(n):
     slov = input()
